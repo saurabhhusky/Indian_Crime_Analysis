@@ -42,6 +42,50 @@ Analyzing crime for Rape against women.
 
 ![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/f6a60a1e-91df-4a6e-b3c8-a20f168fe320)
 
+Density of Rape cases across.
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/0da33177-7c61-4515-ad06-bdb7ad83c340)
+
+Linear Regression
+Dependent Variable X – Total IPC Crime
+Independent Variable Y - Year
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/802d3cad-016b-4372-a8d4-d95e513b36d7)
+
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/1be263b3-57a0-462b-b17f-652224b58be2)
+
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/28cf9bee-9c09-4a75-90cc-1e06540fd64a)
+
+Logistic Regression
+Dependent Variable X – Total IPC Crime 
+Independent Variable Y – Year 
+Splitting Into Test and Train Data
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/a1f211bd-1fff-4e1e-b0e2-506804d7456f)
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/5089452d-3c31-4dc6-b0d5-222783a3e5d7)
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/6b622675-328c-4070-a94b-7663f8247eb9)
+
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/946b7434-1d36-461f-983d-717a1b51dc42)
+
+Theft cases have the most dispersion in the dataset.
+UP and MP are the states with most recorded crimes.
+Hamirpur in UP has most number of average cases.
+Indore in MP has most recorded cases.
+Assault is the most committed crime.
+Cases of Rape are most common in Madhya Pradesh with nearly  20.5% of total cases.
+
+Best fitted model for forecasting        
+      Y(Crime)= 137.34 X(YEAR) -270235
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/3ed440d2-1490-416f-bbaa-09029585ff2c)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
