@@ -1,1 +1,56 @@
 # Indian_Crime_Analysis
+Source : Dataworld
+State-wise crime data from 2001-2014 is classified according to 30+factors.
+The dataset contains information on different categories of crime in India based on which we could build we can forecast models. 
+Information like State, District, and Year available along with Total IPC Crimes, Rapes, Murders, Kidnapping among major variables. 
+Consists of 34 columns and 10678 rows
+
+Goals:
+Clean and Preprocess dataset
+Perform EDA 
+Build predictive models
+Research questions:
+Which is the most prevalent crime in India?
+How is the trend for crimes against women?
+Which state and districts account for most cases of rapes?
+Build linear and logistic regression modelsto predict crimes 
+
+Exploratory Data Analysis!
+Dispersion of Recorded cases across India.
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/bd0311ee-4fe1-4152-87dc-7eb8aa31ef15)
+
+Average cases In India across different state
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/22e75b71-94e9-4d07-b190-8b643955b5d8)
+
+Average cases across different districts in Uttar Pradesh 
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/30f9c7aa-7266-49fb-9876-298891aae724)
+
+Most cases across different districts in Madhya Pradesh.
+Cases Recorded across different district in Madhya Pradesh
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/2169ed37-0b86-4638-82ac-3bed9c285d78)
+
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/58841925-483e-470a-9eb5-60a99fb1aee8)
+
+Analyzing trend of most violent crimes.
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/d5f51c3c-4fa6-4a46-9158-dc99e77424e2)
+
+Analyzing trend of crimes committed  against women.
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/22534f9a-fb86-4f53-80bc-630fa281b82a)
+
+Analyzing crime for Rape against women.
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/a39db65f-2dd2-4094-af0d-d55a0996159b)
+
+![image](https://github.com/saurabhhusky/Indian_Crime_Analysis/assets/105597629/f6a60a1e-91df-4a6e-b3c8-a20f168fe320)
+
+
+
+
+
+
+
+
+
+
+
+
+
